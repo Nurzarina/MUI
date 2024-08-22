@@ -1,0 +1,16 @@
+#topProduct{
+    margin-top: 10px;
+}
+
+/* #overall{
+    display: grid;
+    gap: 50px;
+} */
+
+.Card{
+    margin: 5px;
+}
+
+#desc{
+    overflow: hidden;
+}
